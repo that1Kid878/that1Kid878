@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @that1Kid878
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Im totally human
