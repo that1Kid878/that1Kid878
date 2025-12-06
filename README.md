@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @that1Kid878
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Backend Programming
+- 🌱 I’m currently learning backend
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Im totally human
+- ⚡ Fun fact: I'm doing all this for EAE to NYP
