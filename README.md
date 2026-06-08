@@ -2,4 +2,3 @@
 - 👀 I’m interested in Backend Programming
 - 🌱 I’m currently learning backend
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm doing all this for EAE to NYP
