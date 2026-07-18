@@ -2,13 +2,16 @@
 - Python Fastapi
 - Golang Gin
 - Rust Axum
+- Docker
+- SQLx Postgres and SQLite
 
 # Projects
 - Task Tracker
 - Basic Auth
-- url shortener
-- notes api
+- Url Shortener
+- Notes API
+- Habit Tracker API
 
 # Goals
 - NYP Computing
-- Becoming a backend or cloud engineer
+- Becoming a software engineer
